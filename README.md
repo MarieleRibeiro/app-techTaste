@@ -12,6 +12,36 @@
 
 ---
 
+## 📥 Download e Teste
+
+### 🚀 Teste o App Agora!
+
+Quer experimentar o TechTaste sem precisar compilar? Baixe o APK pronto:
+
+<div align="center">
+
+**📱 Android APK**
+
+[![Download APK](https://img.shields.io/badge/Download-APK-success?style=for-the-badge&logo=android)](https://github.com/MarieleRibeiro/app-techTaste/releases/download/v1.0.0/app-debug.apk)
+
+**ou encontre o arquivo em:**  
+`build/app/outputs/flutter-apk/app-debug.apk`
+
+</div>
+
+### 📋 Como instalar:
+
+1. Baixe o arquivo **app-debug.apk**
+2. No seu Android, vá em **Configurações → Segurança**
+3. Habilite **"Instalar apps de fontes desconhecidas"**
+4. Abra o arquivo APK baixado
+5. Toque em **Instalar**
+6. Pronto! 🎉
+
+> **Nota:** Este é um APK de debug para testes. Para uso em produção, recomenda-se gerar uma versão release assinada.
+
+---
+
 ## 📱 Sobre o Projeto
 
 **TechTaste** é um aplicativo móvel de delivery de comida que permite aos usuários explorar restaurantes, navegar por categorias de pratos e fazer pedidos de forma intuitiva e rápida. O app oferece uma experiência moderna e fluida, com uma interface amigável e recursos completos de carrinho de compras.
